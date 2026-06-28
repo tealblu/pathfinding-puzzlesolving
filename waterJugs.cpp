@@ -1,5 +1,5 @@
 /*
- * Name: Charlie Hartsell
+ * Name: C Hartsell
  * Date Submitted: April 19, 2021
  * Lab Section: 004
  * Assignment Name: Lab 10
